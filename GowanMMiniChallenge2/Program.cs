@@ -1,7 +1,8 @@
 ﻿//Madeline Gowan
 //10-18-22
-//Mini Challenge #2 - Add 2 Numbers
-//This is a redo of an old assignment.
+//Mini Challenge 2 - Redo
+//In this challenge the user would enter two numbers, and the program must
+//recognize them as numbers with value, and add the values together.
 
 Console.Clear();
 
