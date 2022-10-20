@@ -1,6 +1,6 @@
 # GowanMMiniChallenge2
 Madeline Gowan
-10-20-2022
+10-18-2022
 Mini Challenge 2 - Redo
 In this challenge the user would enter two numbers, and the program must recognize them as numbers with value, and add the values together.
 
