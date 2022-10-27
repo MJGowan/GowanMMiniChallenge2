@@ -10,4 +10,4 @@ peer review - Marcel R. It worked ass intended, I liked the use of if else to ch
 INSTRUCTIONS
 Before anything, open the code in VSCode and run/debug the code. This should lead to a new tab opening, labelled localhost. Copy and paste the URL from that new tab, into the Postman "GET" area. Then, add to the end of the URL like this: 
 https://localhost:xxxx/MathStuffs/Adding/x/x
-The xxxx should be the 4-digit number individual to your computer. Then you wil have /MathStuffs/Adding, and in the next two spaces I have labelled x, put a number of your choice. Then, hit send. Text should appear telling you the sum of the two numbers you put into the URL.
+The xxxx should be the 4-digit number individual to your computer. Then you wil have /MathStuffs/Adding, and in the next two spaces I have labelled x, you will put a number of your choice. Then, hit "Send". Text should appear telling you the sum of the two numbers you put into the URL.
